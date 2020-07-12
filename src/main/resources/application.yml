@@ -1,0 +1,4 @@
+server:
+    port: 9091
+urls:
+    telegraph: https://www.telegraphindia.com/
